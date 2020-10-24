@@ -3,3 +3,7 @@ Bio: Currently working as an Developer.
 
 Name: Sonam Srivastav
 Bio: Final year student of Mechanical Engineering (Diploma).
+
+Name:Shruti Srivastav
+Bio: Final year student of mech.engg.(Diploma) .
+DOB:13-5-1998
