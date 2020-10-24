@@ -2,7 +2,7 @@
 
 This repositories is for the first timers only. Here you can learn how to pull request, create and merge branch. 
 
-# Step to contribute in any repository 
+# Step to contribute in any repository
 
 1) Fork and clone the repository.
     git clone https://github.com/mukesh-srivastav/FirstTimersOnly.git
