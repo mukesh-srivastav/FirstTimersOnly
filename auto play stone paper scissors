@@ -1,0 +1,42 @@
+def ask():
+    q=int(input("play a new game   1. yes   2. no   "))
+    if q==1:
+        replay()
+    
+    else:
+        print("THE END")
+
+
+def replay():
+        print("select any option as number")  
+        print("for player A")
+        a=int(input("1.stone  2.paper  3.scissors    =   "))
+        print("for player B")
+        b=int(input("1.stone  2.paper  3.scissors    =    "))
+        if a==1 and b==2:
+            print("player B win")
+        elif a==1 and b==3: 
+            print("player A win") 
+        elif a==1 and b==1:
+            print("draw match ")
+            ask()
+        elif a==2 and b==1:
+            print("PLAYER A WIN")
+        elif a==2 and b==2:
+            print("draw match")
+            ask()
+        elif a==2 and b==3:
+            print("player B wins")
+        elif a==3 and b==1:
+            print("player B win")
+        elif a==3 and b==2:
+            print("player A win")
+        elif a==3 and b==3:
+            print("draw match")
+            ask()
+q=int(input("play a new game   1. yes   2. no   "))
+if q==1:
+    replay()
+    
+else:
+      print("THANK U")
