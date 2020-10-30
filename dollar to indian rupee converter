@@ -1,0 +1,3 @@
+dollars = float(input("Please enter dollars:"))
+rupees = dollars * 64
+print(rupees, " Rupees")
