@@ -10,3 +10,6 @@ DOB:13-5-1998
 
 Name: Sweta verma
 Bio: Currently working as javaScript Developer.
+
+Name: Austin Nguyen
+Bio: Currently a Sophomore majoring in Computer Science and looking forward to contributing to open source projects 
