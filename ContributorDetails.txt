@@ -10,3 +10,7 @@ DOB:13-5-1998
 
 Name: Sweta verma
 Bio: Currently working as javaScript Developer.
+
+Name: Ayush Kumar 
+Bio: Currently working as Front-end Developer Developer.
+Github:https://github.com/Ayush0431
