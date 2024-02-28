@@ -10,3 +10,6 @@ DOB:13-5-1998
 
 Name: Sweta verma
 Bio: Currently working as javaScript Developer.
+
+Name: Fabian Altendorfer
+Bio: Data Science and Engineering Student
