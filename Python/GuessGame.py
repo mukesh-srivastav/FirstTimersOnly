@@ -3,14 +3,14 @@ print("Welcome to the guess game")
 print("You have 3 chances to guess my number btw 1 to 25")
 
 import random
-Random = random.randint(1, 20)
+Random = random.randint(1, 25)
 # print(random.randrange(1,25,1))
 
 
-for GUESS in range(1, 4):
+for GUESS in range(3):
     guess = int(input('Guess my secret no '))
 
-    if guess - Random < 0:
+    if guess < Random:
         if abs(guess - Random) > 3:  # we dont know how to exclude these values:
             print("Oww.,.youre thinking too small")
         else:
@@ -27,5 +27,5 @@ for GUESS in range(1, 4):
         print('You guesed it right in', str(GUESS))
 
 print('Haha poor boy')
-print('The number was ', Random)
+print(f'the number was {Random}')
 
