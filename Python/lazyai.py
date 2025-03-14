@@ -15,7 +15,7 @@ class LazyAI:
     def do_work(self, task):
         print(f"\nYou asked me to: {task}")
         time.sleep(2)
-        if random.random() < 0.7:  # refuses to work
+        if random.random() < 0.7:  # refuses to work 
             print(random.choice(self.excuses))
         else:
             print("Fine, I'll do it... but only this once!")
