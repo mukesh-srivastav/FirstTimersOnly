@@ -5,3 +5,7 @@ r = float(input("Enter your Circle's radius"))
 
 Area = math.pi * r ** 2
 print("your circle's Area is",Area)
+
+Circumference= 2*math.pi*r
+
+print("your circle's circumference is ",Circumference)
